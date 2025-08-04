@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Samarth-Travels/static/css/main.49a40439.css",
+    "main.js": "/Samarth-Travels/static/js/main.a7de0308.js",
+    "static/js/453.36db290e.chunk.js": "/Samarth-Travels/static/js/453.36db290e.chunk.js",
+    "static/media/fa-duotone-900.ttf": "/Samarth-Travels/static/media/fa-duotone-900.a8144ceebe061e5dce05.ttf",
+    "static/media/fa-thin-100.ttf": "/Samarth-Travels/static/media/fa-thin-100.ece5eb6779914541d8c6.ttf",
+    "static/media/fa-light-300.ttf": "/Samarth-Travels/static/media/fa-light-300.ece9186b7f2342e5d502.ttf",
+    "static/media/fa-regular-400.ttf": "/Samarth-Travels/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
+    "static/media/fa-solid-900.ttf": "/Samarth-Travels/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
+    "static/media/fa-thin-100.woff2": "/Samarth-Travels/static/media/fa-thin-100.33b615159035b065ed14.woff2",
+    "static/media/fa-duotone-900.woff2": "/Samarth-Travels/static/media/fa-duotone-900.ce23e2fef2c977244c78.woff2",
+    "static/media/fa-light-300.woff2": "/Samarth-Travels/static/media/fa-light-300.c745a7f258a1c6c3cb55.woff2",
+    "static/media/fa-regular-400.woff2": "/Samarth-Travels/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
+    "static/media/fa-solid-900.woff2": "/Samarth-Travels/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
+    "static/media/fa-brands-400.ttf": "/Samarth-Travels/static/media/fa-brands-400.4396646c6caf7ad27580.ttf",
+    "static/media/fa-brands-400.woff2": "/Samarth-Travels/static/media/fa-brands-400.79debd70511e3f8baa09.woff2",
+    "static/media/breadcumb-bg.jpg": "/Samarth-Travels/static/media/breadcumb-bg.56e86ef4551ec7762839.jpg",
+    "static/media/feature_card_circle.svg": "/Samarth-Travels/static/media/feature_card_circle.da1d80461ec96f680494.svg",
+    "static/media/fa-v4compatibility.ttf": "/Samarth-Travels/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Samarth-Travels/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
+    "index.html": "/Samarth-Travels/index.html",
+    "static/media/slick.svg": "/Samarth-Travels/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Samarth-Travels/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Samarth-Travels/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Samarth-Travels/static/media/slick.295183786cd8a1389865.woff",
+    "main.49a40439.css.map": "/Samarth-Travels/static/css/main.49a40439.css.map",
+    "main.a7de0308.js.map": "/Samarth-Travels/static/js/main.a7de0308.js.map",
+    "453.36db290e.chunk.js.map": "/Samarth-Travels/static/js/453.36db290e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49a40439.css",
+    "static/js/main.a7de0308.js"
+  ]
+}
