@@ -98,28 +98,29 @@ import Twentytempotravelleronrent from './pages/26 Seater Tempo Traveller On Ren
 import Busrentalsserviceinpune from './pages/Bus Rental Services in Pune';
 import Weddingbusrentalservice from './pages/Wedding Bus Rental Service';
 import Busonrentinpimprichichwad from './pages/Bus On Rent in Pimpri Chinchwad';
+import { BrowserRouter as Router } from 'react-router-dom';
 
 function App() {
  
-  useEffect(() => {
-    const blockedIPs = ['123.45.67.89', '171.61.88.172'];
+  // useEffect(() => {
+  //   const blockedIPs = ['123.45.67.89', '171.61.88.172'];
 
-    fetch('https://api.ipify.org?format=json')
-      .then(res => res.json())
-      .then(data => {
-        const userIP = data.ip;
+  //   fetch('https://api.ipify.org?format=json')
+  //     .then(res => res.json())
+  //     .then(data => {
+  //       const userIP = data.ip;
 
-        if (blockedIPs.includes(userIP)) {
-          document.body.innerHTML = "<h1 style='text-align:center;margin-top:50px;'>Access Denied</h1>";
-        }
-      })
-      .catch(err => {
-        console.error('IP fetch failed:', err);
-      });
-  }, []);
+  //       if (blockedIPs.includes(userIP)) {
+  //         document.body.innerHTML = "<h1 style='text-align:center;margin-top:50px;'>Access Denied</h1>";
+  //       }
+  //     })
+  //     .catch(err => {
+  //       console.error('IP fetch failed:', err);
+  //     });
+  // }, []);
 
   return (
-    <Router>
+    <BrowserRouter >
  <Header/>
     <ContactButtons/>
 <ScrollToTop/>
@@ -231,7 +232,7 @@ function App() {
 
       </Routes>
 <Footer/>
-    </Router>
+    </BrowserRouter >
   );
 }
 
