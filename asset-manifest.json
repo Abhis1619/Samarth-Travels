@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Samarth-Travels/static/css/main.49a40439.css",
-    "main.js": "/Samarth-Travels/static/js/main.a7de0308.js",
+    "main.js": "/Samarth-Travels/static/js/main.1a3e0fee.js",
     "static/js/453.36db290e.chunk.js": "/Samarth-Travels/static/js/453.36db290e.chunk.js",
     "static/media/fa-duotone-900.ttf": "/Samarth-Travels/static/media/fa-duotone-900.a8144ceebe061e5dce05.ttf",
     "static/media/fa-thin-100.ttf": "/Samarth-Travels/static/media/fa-thin-100.ece5eb6779914541d8c6.ttf",
@@ -25,11 +25,11 @@
     "static/media/slick.ttf": "/Samarth-Travels/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/Samarth-Travels/static/media/slick.295183786cd8a1389865.woff",
     "main.49a40439.css.map": "/Samarth-Travels/static/css/main.49a40439.css.map",
-    "main.a7de0308.js.map": "/Samarth-Travels/static/js/main.a7de0308.js.map",
+    "main.1a3e0fee.js.map": "/Samarth-Travels/static/js/main.1a3e0fee.js.map",
     "453.36db290e.chunk.js.map": "/Samarth-Travels/static/js/453.36db290e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.49a40439.css",
-    "static/js/main.a7de0308.js"
+    "static/js/main.1a3e0fee.js"
   ]
 }
